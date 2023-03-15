@@ -1,10 +1,10 @@
 package com.dxc;
 
-public class Conversion {
-	private static String ref = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()*+,-./";
+public class Encode {
+	private String ref = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()*+,-./";
 	private char offsetChar;
 
-	public Conversion(char offsetChar) {
+	public Encode(char offsetChar) {
 		this.offsetChar = offsetChar;
 	}
 
