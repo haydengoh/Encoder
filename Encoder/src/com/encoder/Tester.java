@@ -1,4 +1,4 @@
-package com.dxc;
+package com.encoder;
 
 public class Tester {
 	public static void main(String[] args) {
