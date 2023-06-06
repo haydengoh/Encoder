@@ -1,4 +1,4 @@
-package com.encoder;
+package com.dxc;
 
 public class Encode {
 	private String ref = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()*+,-./";
